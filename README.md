@@ -1,1 +1,1 @@
-simple login ,register app
+simple login ,register page
